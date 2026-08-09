@@ -1,25 +1,28 @@
-<div align="center">
+## 👩‍💻 About Me
 
-# 안녕하세요, 정민지입니다 👋
+### Education
 
-### 사용자 흐름을 이해하고 API로 연결하는 Backend Developer
+- 🎓 한성대학교 컴퓨터공학부 모바일소프트웨어트랙 재학. `2023.03 ~`
 
-프론트엔드 경험을 바탕으로 화면 너머의 사용자 흐름까지 생각하며  
-**Java와 Spring Boot를 중심으로 백엔드 개발 역량을 쌓고 있습니다.**
+### Activities
+
+- 🦁 멋쟁이사자처럼 한성대학교 Backend. `2026.03 ~`
+- 💻 UMC 한성대학교 Web Challenger. `2026.03 ~`
+- 🌱 초록스터디. `2026.07 ~`
+
+### Certification
+
+- 📜 정보처리기사 필기 합격. `2026.06`
+- 🌐 TOEIC 770. `2026.08`
+
+### Experience
+
+- Java·Spring Boot 기반 백엔드 개발.
+- API 명세 작성 및 프론트엔드 연동.
+- 인증·학습 계획·TODO·채팅·알림·결제 기능 구현.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mint0326-181717?style=flat-square&logo=github)](https://github.com/mint0326)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion)](https://app.notion.com/p/f3e74200449d821e9a1601b4ab4d0007?source=copy_link)
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-- 🎓 한성대학교 컴퓨터공학부 모바일소프트웨어트랙에 재학 중입니다.
-- 🌱 Java와 Spring Boot를 중심으로 안정적인 API와 도메인 로직을 공부하고 있습니다.
-- 🤝 API 명세를 기반으로 프론트엔드와 원활하게 협업하는 방법을 고민합니다.
-- 💡 인증, 학습 계획·TODO, 채팅·알림·결제 기능을 구현해본 경험이 있습니다.
 
 ## 🛠 Tech Stack
 
@@ -96,20 +99,6 @@
 
 [Repository](https://github.com/WebFramework-A/Filmograph-FE) · [Service](https://filmograph-fe.vercel.app/) · [Detail](https://app.notion.com/p/9ff74200449d833d97f9018741c03426)
 
-## 🌿 Activities
-
-| 기간 | 활동 |
-|:---:|---|
-| 2026.03 ~ | 멋쟁이사자처럼 한성대학교 Backend |
-| 2026.03 ~ | UMC 한성대학교 Web Challenger |
-| 2026.07 ~ | 초록스터디 |
-
-## 📚 Education & Certification
-
-- **한성대학교 컴퓨터공학부** 모바일소프트웨어트랙, 2023.03 ~
-- **정보처리기사 필기 합격**, 2026.06
-- **TOEIC 770**, 2026.08
-
 ## 📊 GitHub
 
 <div align="center">
@@ -117,4 +106,3 @@
 ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=mint0326&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true)
 
 </div>
-
