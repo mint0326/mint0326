@@ -97,7 +97,7 @@
 
 ---
 
-### 🏪 [TeamON](https://github.com/2026-Hansung-Capstone)
+### 🏪 [TeamON](https://app.notion.com/p/90a74200449d8322a81481c2dfad1132)
 
 > 소상공인과 자영업자를 위한 매장·직원 관리 및 AI 챗봇 서비스
 
@@ -110,7 +110,7 @@
 - 직원용 팀 가입 흐름과 홈 화면 구현
 - 와이어프레임 설계 및 주요 UI 개발
 
-[Repository](https://github.com/2026-Hansung-Capstone) · [Detail](https://app.notion.com/p/90a74200449d8322a81481c2dfad1132)
+[Detail](https://app.notion.com/p/90a74200449d8322a81481c2dfad1132) · Repository (Private)
 
 ---
 
