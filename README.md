@@ -1,3 +1,11 @@
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=mint0326&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/mint0326"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 👩‍💻 About Me
 
 ### Education
@@ -14,12 +22,6 @@
 
 - 📜 정보처리기사 필기 합격. `2026.06`
 - 🌐 TOEIC 770. `2026.08`
-
-### Experience
-
-- Java·Spring Boot 기반 백엔드 개발.
-- API 명세 작성 및 프론트엔드 연동.
-- 인증·학습 계획·TODO·채팅·알림·결제 기능 구현.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mint0326-181717?style=flat-square&logo=github)](https://github.com/mint0326)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion)](https://app.notion.com/p/f3e74200449d821e9a1601b4ab4d0007?source=copy_link)
