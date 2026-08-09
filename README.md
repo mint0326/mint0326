@@ -63,12 +63,30 @@
 
 ## 🚀 Featured Projects
 
+### 📚 [Stology](https://github.com/Stology/FE)
+
+> 스터디 자료를 온톨로지 개념과 연결해 지식 구조와 커버리지 리포트로 정리하는 스터디 운영 보조 서비스
+
+`React` `TypeScript` `Vite` `TanStack Query` `Zustand` `Tailwind CSS`
+
+- **Period:** `2026.06.30 ~`
+- **Role:** Frontend Developer
+- 재사용 가능한 공통 UI 컴포넌트와 공통 레이아웃 구현
+- 디자인 토큰 정리 및 파일 업로드·토스트 UI 개발
+- 원본 자료 조회 화면과 질문함 라우팅 구현
+- Vercel 배포 및 라우팅 환경 구성
+
+[Frontend](https://github.com/Stology/FE) · [Backend](https://github.com/Stology/BE)
+
+---
+
 ### 🌱 [OnRoot](https://github.com/On-root-AI/BE)
 
 > 진로를 고민하는 청년을 위한 AI 기반 자격증 학습 플래너
 
 `Java 21` `Spring Boot` `Spring Data JPA` `MySQL`
 
+- **Period:** `2026.05.09 ~ 2026.05.28`
 - **Role:** Backend Developer
 - 회원가입 및 사용자 관련 API 구현
 - 학습 계획과 하위 Task CRUD API 구현
@@ -79,12 +97,30 @@
 
 ---
 
+### 🏪 [TeamON](https://github.com/2026-Hansung-Capstone)
+
+> 소상공인과 자영업자를 위한 매장·직원 관리 및 AI 챗봇 서비스
+
+`React` `TypeScript` `Tailwind CSS`
+
+- **Period:** `2026.01.30 ~ 2026.06.04`
+- **Role:** Frontend Developer
+- 관리자 대시보드·공지사항·팀 관리 화면 구현
+- 급여·근태 관리 및 직원 근태 확인 화면 구현
+- 직원용 팀 가입 흐름과 홈 화면 구현
+- 와이어프레임 설계 및 주요 UI 개발
+
+[Repository](https://github.com/2026-Hansung-Capstone) · [Detail](https://app.notion.com/p/90a74200449d8322a81481c2dfad1132)
+
+---
+
 ### 🔗 [ToyLink](https://github.com/HSU-MobileProject/Backend)
 
 > 개발자들의 팀 프로젝트 매칭과 프로젝트 거래를 지원하는 중개 플랫폼
 
 `Node.js` `Firebase Functions` `Firestore` `FCM` `PortOne`
 
+- **Period:** `2025.09.09 ~ 2025.12.12`
 - **Role:** Backend Developer
 - Firebase Authentication 기반 이메일·Google 로그인 연동
 - 채팅방 메타데이터 동기화 및 FCM 알림 로직 구현
@@ -101,6 +137,7 @@
 
 `React` `TypeScript` `React Force Graph` `Firebase` `Tailwind CSS`
 
+- **Period:** `2025.09.01 ~ 2025.12.15`
 - **Role:** Frontend & Backend Developer
 - 영화·영화인 이분 네트워크 그래프 화면 구현
 - 영화 목록과 일간 박스오피스 기능 구현
